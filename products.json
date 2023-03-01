@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 14 Pro 128GB Deep Purple",
+        "description": "15.54 cm (6.1-inch) Super Retina XDR display featuring Always-On and ProMotion Dynamic Island a magical new way to interact with iPhone 48MP Main camera for up to 4x greater resolution Cinematic mode now in 4K Dolby Vision up to 30 fps Action mode for smooth steady handheld videos.",
+        "price": 140000,
+        "rating": 4.5,
+        "stock": 94,
+        "company": "apple",
+        "category": "mobile",
+        "featured": true,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1676901069/digikart-api-images/mobile/Apple%20iPhone%2014%20Pro%20128GB%20Deep%20Purple/main.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1676901110/digikart-api-images/mobile/Apple%20iPhone%2014%20Pro%20128GB%20Deep%20Purple/1.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1676901126/digikart-api-images/mobile/Apple%20iPhone%2014%20Pro%20128GB%20Deep%20Purple/2.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1676901142/digikart-api-images/mobile/Apple%20iPhone%2014%20Pro%20128GB%20Deep%20Purple/3.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dcwbgmwqz/image/upload/v1676901170/digikart-api-images/mobile/Apple%20iPhone%2014%20Pro%20128GB%20Deep%20Purple/4.jpg"
+            }
+        ]
+    }
+]
